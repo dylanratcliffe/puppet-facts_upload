@@ -2,9 +2,9 @@
   "name": "dylanratcliffe-facts_upload",
   "version": "0.1.0",
   "author": "Dylan Ratcliffe",
-  "summary": "",
+  "summary": "Task for uploading latest facts to the Puppet master",
   "license": "MIT",
-  "source": "",
+  "source": "https://github.com/dylanratcliffe/puppet-facts_upload",
   "dependencies": [
 
   ],
